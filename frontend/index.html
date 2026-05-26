@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Panini Tracker</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section id="albumPage" class="page active">
+        <header class="home-header">
+          <div class="title-row">
+            <h1>Panini Tracker 🏆</h1>
+            <button class="icon-button" type="button" aria-label="Notifications">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+                <path d="M18 8a6 6 0 0 0-12 0c0 7-3 7-3 7h18s-3 0-3-7"/>
+                <path d="M13.73 21a2 2 0 0 1-3.46 0"/>
+              </svg>
+            </button>
+          </div>
+
+          <article class="completion-card">
+            <span class="orb orb-one"></span>
+            <span class="orb orb-two"></span>
+            <p>Overall Completion</p>
+            <strong id="homeCompletionPct">0%</strong>
+            <span id="homeCompletionText">0 stickers owned · 0 missing</span>
+            <div class="completion-track">
+              <div id="homeCompletionBar" class="completion-fill"></div>
+            </div>
+          </article>
+        </header>
+
+        <section class="stats-row">
+          <article class="mini-card">
+            <strong id="homeTotal">0</strong>
+            <span>Total</span>
+          </article>
+          <article class="mini-card">
+            <strong id="homeOwned" class="blue-text">0</strong>
+            <span>Owned</span>
+          </article>
+          <article class="mini-card">
+            <strong id="homeMissing" class="red-text">0</strong>
+            <span>Missing</span>
+          </article>
+        </section>
+
+        <article class="tip-card">
+          <div class="tip-icon">💡</div>
+          <div>
+            <h2>Did you know?</h2>
+            <p id="tipText">Loading collection insight...</p>
+          </div>
+        </article>
+
+        <section class="section-block">
+          <div class="section-title">
+            <h2>Progress by Team</h2>
+            <button id="seeAllTeams" type="button">See all</button>
+          </div>
+          <div id="teamProgressRow" class="team-scroll"></div>
+        </section>
+      </section>
+
+      <section id="missingPage" class="page">
+        <header class="page-heading">
+          <h1>Missing</h1>
+        </header>
+        <label class="search-box">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+            <circle cx="11" cy="11" r="7"/>
+            <path d="m20 20-3.5-3.5"/>
+          </svg>
+          <input id="missingSearch" type="search" placeholder="Search code or name" />
+        </label>
+        <div id="missingFilters" class="filter-row"></div>
+        <p id="missingCounter" class="list-counter">0 stickers missing</p>
+        <section id="missingList" class="list-stack"></section>
+        <section id="specialMissingSection" class="special-missing-section">
+          <div class="special-heading">
+            <h2>✨ Special Stickers</h2>
+            <p>Mark these manually when you get them</p>
+          </div>
+          <div id="specialMissingList" class="list-stack"></div>
+        </section>
+      </section>
+
+      <section id="swapPage" class="page">
+        <header class="page-heading row-heading">
+          <h1>Swap List</h1>
+          <span id="swapCount" class="count-badge">0</span>
+        </header>
+        <div id="swapFilters" class="filter-row"></div>
+        <section id="swapList" class="list-stack"></section>
+        <button id="shareSwapButton" class="share-button hidden" type="button">📤 Share Swap List</button>
+      </section>
+
+      <section id="statsPage" class="page">
+        <header class="stats-hero">
+          <div class="ring-wrap">
+            <svg class="progress-ring" viewBox="0 0 132 132" aria-hidden="true">
+              <circle class="ring-bg" cx="66" cy="66" r="58"/>
+              <circle id="statsRing" class="ring-fg" cx="66" cy="66" r="58"/>
+            </svg>
+            <div>
+              <strong id="statsCompletionPct">0%</strong>
+              <span>completion</span>
+            </div>
+          </div>
+        </header>
+
+        <section class="metric-grid">
+          <article class="metric-card">
+            <span>Total stickers</span>
+            <strong id="statsTotal">0</strong>
+          </article>
+          <article class="metric-card">
+            <span>Owned</span>
+            <strong id="statsOwned" class="blue-text">0</strong>
+          </article>
+          <article class="metric-card">
+            <span>Missing</span>
+            <strong id="statsMissing" class="red-text">0</strong>
+          </article>
+          <article class="metric-card">
+            <span>Duplicates</span>
+            <strong id="statsDuplicates" class="gold-text">0</strong>
+          </article>
+        </section>
+
+        <section class="section-block">
+          <div class="section-title">
+            <h2>Team Completion</h2>
+          </div>
+          <div id="teamStatsList" class="team-list"></div>
+        </section>
+      </section>
+    </main>
+
+    <nav class="bottom-nav" aria-label="Main navigation">
+      <button class="tab-button active" data-page="albumPage" type="button">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round">
+          <rect x="3" y="4" width="18" height="16" rx="2"/>
+          <path d="M8 4v16M16 4v16"/>
+        </svg>
+        <span>Album</span>
+      </button>
+      <button class="tab-button" data-page="missingPage" type="button">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round">
+          <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+        </svg>
+        <span>Missing</span>
+      </button>
+      <button id="openScanButton" class="scan-tab-button" type="button">
+        <span class="scan-circle">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+            <path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"/>
+            <circle cx="12" cy="13" r="3"/>
+          </svg>
+        </span>
+        <span>Scan</span>
+      </button>
+      <button class="tab-button" data-page="swapPage" type="button">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round">
+          <path d="M17 2l4 4-4 4"/>
+          <path d="M3 11V9a3 3 0 0 1 3-3h15"/>
+          <path d="M7 22l-4-4 4-4"/>
+          <path d="M21 13v2a3 3 0 0 1-3 3H3"/>
+        </svg>
+        <span>Swap</span>
+      </button>
+      <button class="tab-button" data-page="statsPage" type="button">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round">
+          <line x1="18" y1="20" x2="18" y2="10"/>
+          <line x1="12" y1="20" x2="12" y2="4"/>
+          <line x1="6" y1="20" x2="6" y2="14"/>
+        </svg>
+        <span>Stats</span>
+      </button>
+    </nav>
+
+    <section id="scanModal" class="scan-modal" aria-hidden="true">
+      <div class="scan-panel">
+        <header class="scan-modal-header modal-header">
+          <h1>Scan Album Page</h1>
+          <button id="closeScanButton" class="icon-button" type="button" aria-label="Close scan">×</button>
+        </header>
+
+        <div class="scan-modal-body">
+          <section id="scanUploadView">
+            <label class="modal-upload" for="scanInput">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+                <path d="M14.5 4h-5L7 7H4a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-3l-2.5-3z"/>
+                <circle cx="12" cy="13" r="3"/>
+              </svg>
+              <span>Photograph an album page</span>
+            </label>
+            <input id="scanInput" type="file" accept="image/*" />
+            <img id="scanPreview" class="scan-preview" alt="Selected album page" />
+          </section>
+
+          <section id="scanLoading" class="scan-loading hidden">
+            <span class="spinner"></span>
+            <strong>Analyzing with AI...</strong>
+          </section>
+
+          <section id="reviewView" class="hidden">
+            <div class="review-top">
+              <span id="reviewTeamBadge" class="team-badge">TEAM</span>
+              <p>Review your stickers</p>
+            </div>
+            <div id="reviewGrid" class="review-grid"></div>
+          </section>
+
+          <section id="scanError" class="message error hidden"></section>
+        </div>
+
+        <footer class="scan-modal-footer">
+          <button id="analyzeButton" class="primary-button" type="button" disabled>⚡ Analyze Page</button>
+          <button id="confirmButton" class="primary-button" type="button">Confirm &amp; Save</button>
+        </footer>
+      </div>
+    </section>
+
+    <section id="successOverlay" class="success-overlay hidden">
+      <div>🎉 Saved! <span id="successCount">0</span> stickers updated</div>
+    </section>
+
+    <section id="howToOverlay" class="howto-overlay hidden" aria-hidden="true">
+      <article class="howto-card">
+        <button id="howToCloseButton" class="howto-close" type="button" aria-label="Close">×</button>
+        <h2>Welcome to Panini Tracker 🏆</h2>
+        <p class="howto-subtitle">FIFA World Cup 2026</p>
+        <div class="howto-divider"></div>
+        <section class="howto-section">
+          <div class="howto-section-title">📸 Scanning Album Pages</div>
+          <div class="howto-section-text">Photograph a team's double page spread. Make sure the album is horizontal and well-lit for best results.</div>
+        </section>
+        <section class="howto-section">
+          <div class="howto-section-title">✅ Review &amp; Confirm</div>
+          <div class="howto-section-text">After scanning, review the 20 slots. Use 'All Missing' then tap the stickers you own. Confirm to save.</div>
+        </section>
+        <section class="howto-section">
+          <div class="howto-section-title">✨ Special Stickers (FWC, Coca-Cola)</div>
+          <div class="howto-section-text">Special stickers cannot be scanned. Go to Missing tab → Special Stickers section and tap each one you have to mark it as owned.</div>
+        </section>
+        <section class="howto-section">
+          <div class="howto-section-title">🔄 Swap Duplicates</div>
+          <div class="howto-section-text">Got duplicates? Check the Swap tab and share your list via WhatsApp.</div>
+        </section>
+        <button id="howToCtaButton" class="howto-cta" type="button">Let's go! 🚀</button>
+      </article>
+    </section>
+
+    <button id="help-fab" class="help-fab" type="button" aria-label="How to use">?</button>
+
+    <div id="toast" class="toast hidden"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.2/dist/confetti.browser.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

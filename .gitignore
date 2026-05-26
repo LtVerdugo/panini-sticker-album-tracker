@@ -1,0 +1,44 @@
+# Environment & secrets
+.env
+*.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Database (personal data)
+*.db
+data/panini_tracker.db
+
+# Personal scan photos
+scans/
+exports/
+
+# Scan result JSONs (personal data)
+esp_scan.json
+mex_scan.json
+*_scan.json
+
+# face-api.js models (large binary files)
+frontend/models/
+
+# Config files with calibration data
+config/aligned_template.png
+
+# Config files with personal calibration data
+config/layout_template.json
+config/aligned_template.png
+config/
+
+# Logs
+*.log

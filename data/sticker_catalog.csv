@@ -1,0 +1,683 @@
+sticker_id,team_code,number,display_code,player_name,category,page_code,slot_position
+UZB_001,UZB,1,UZB 1,Team Badge,badge,uzbekistan,row_1_col_1
+UZB_002,UZB,2,UZB 2,Utkir Yusupov,player,uzbekistan,row_1_col_2
+UZB_003,UZB,3,UZB 3,Farrukh Sayfiev,player,uzbekistan,row_2_col_1
+UZB_004,UZB,4,UZB 4,Sherzod Nasrullaev,player,uzbekistan,row_2_col_2
+UZB_005,UZB,5,UZB 5,Umar Eshmurodov,player,uzbekistan,row_unknown
+UZB_006,UZB,6,UZB 6,Husniddin Aliqulov,player,uzbekistan,row_2_col_3
+UZB_007,UZB,7,UZB 7,To be completed,player,uzbekistan,row_unknown
+UZB_008,UZB,8,UZB 8,To be completed,player,uzbekistan,row_unknown
+UZB_009,UZB,9,UZB 9,To be completed,player,uzbekistan,row_unknown
+UZB_010,UZB,10,UZB 10,Dostonbek Khamdamov,player,uzbekistan,row_3_col_1
+UZB_011,UZB,11,UZB 11,Otabek Shukurov,player,uzbekistan,row_1_col_5
+UZB_012,UZB,12,UZB 12,Jamshid Iskanderov,player,uzbekistan,row_1_col_6
+UZB_013,UZB,13,UZB 13,Team Photo,team_photo,uzbekistan,row_2_col_6
+UZB_014,UZB,14,UZB 14,Azizbek Turgunboev,player,uzbekistan,row_3_col_4
+UZB_015,UZB,15,UZB 15,Khojimat Erkinov,player,uzbekistan,row_3_col_5
+UZB_016,UZB,16,UZB 16,Eldor Shomurodov,player,uzbekistan,row_3_col_6
+UZB_017,UZB,17,UZB 17,Oston Urunov,player,uzbekistan,row_4_col_6
+UZB_018,UZB,18,UZB 18,Jaloliddin Masharipov,player,uzbekistan,row_4_col_4
+UZB_019,UZB,19,UZB 19,Igor Sergeev,player,uzbekistan,row_4_col_5
+UZB_020,UZB,20,UZB 20,To be completed,player,uzbekistan,row_unknown
+NZL_001,NZL,1,NZL 1,Team Badge,badge,new_zealand,row_1_col_1
+NZL_002,NZL,2,NZL 2,Max Crocombre,player,new_zealand,row_1_col_2
+NZL_003,NZL,3,NZL 3,Alex Paulsen,player,new_zealand,row_1_col_3
+NZL_004,NZL,4,NZL 4,Michael Boxall,player,new_zealand,row_1_col_4
+NZL_005,NZL,5,NZL 5,Liberato Cacace,player,new_zealand,row_1_col_5
+NZL_006,NZL,6,NZL 6,Tim Payne,player,new_zealand,row_2_col_1
+NZL_007,NZL,7,NZL 7,Tyler Bindon,player,new_zealand,row_2_col_2
+NZL_008,NZL,8,NZL 8,Francis De Vries,player,new_zealand,row_3_col_1
+NZL_009,NZL,9,NZL 9,Finn Surman,player,new_zealand,row_3_col_2
+NZL_010,NZL,10,NZL 10,Joe Bell,player,new_zealand,row_3_col_3
+NZL_011,NZL,11,NZL 11,Sarpreet Singh,player,new_zealand,row_2_col_4
+NZL_012,NZL,12,NZL 12,Ryan Thomas,player,new_zealand,row_2_col_5
+NZL_013,NZL,13,NZL 13,Team Photo,team_photo,new_zealand,row_2_col_6
+NZL_014,NZL,14,NZL 14,Matthew Garbett,player,new_zealand,row_3_col_4
+NZL_015,NZL,15,NZL 15,Marko Stamenic,player,new_zealand,row_3_col_5
+NZL_016,NZL,16,NZL 16,Ben Old,player,new_zealand,row_3_col_6
+NZL_017,NZL,17,NZL 17,Chris Wood,player,new_zealand,row_4_col_4
+NZL_018,NZL,18,NZL 18,Elijah Just,player,new_zealand,row_4_col_1
+NZL_019,NZL,19,NZL 19,Callum McCowatt,player,new_zealand,row_4_col_2
+NZL_020,NZL,20,NZL 20,Kosta Barbarouses,player,new_zealand,row_4_col_6
+ESP_001,ESP,1,ESP 1,BADGE,badge,esp,slot_01
+ESP_002,ESP,2,ESP 2,UNAI SIMÓN,player,esp,slot_02
+ESP_003,ESP,3,ESP 3,ROBIN LE NORMAND,player,esp,slot_03
+ESP_004,ESP,4,ESP 4,ROBIN LE NORMAND,player,esp,slot_04
+ESP_005,ESP,5,ESP 5,DEAN HUIJSEN,player,esp,slot_05
+ESP_006,ESP,6,ESP 6,PEDRO PORRO,player,esp,slot_06
+ESP_007,ESP,7,ESP 7,DANI CARVAJAL,player,esp,slot_07
+ESP_008,ESP,8,ESP 8,MARC CUCURELLA,player,esp,slot_08
+ESP_009,ESP,9,ESP 9,MARTÍN ZUBIMENDI,player,esp,slot_09
+ESP_010,ESP,10,ESP 10,RODRI,player,esp,slot_10
+ESP_011,ESP,11,ESP 11,PEDRI,player,esp,slot_11
+ESP_012,ESP,12,ESP 12,FABIÁN RUIZ,player,esp,slot_12
+ESP_013,ESP,13,ESP 13,TEAM PHOTO,team_photo,esp,slot_13
+ESP_014,ESP,14,ESP 14,MIKEL MERINO,player,esp,slot_14
+ESP_015,ESP,15,ESP 15,LAMINE YAMAL,player,esp,slot_15
+ESP_016,ESP,16,ESP 16,DANI OLMO,player,esp,slot_16
+ESP_017,ESP,17,ESP 17,NICO WILLIAMS,player,esp,slot_17
+ESP_018,ESP,18,ESP 18,FERRAN TORRES,player,esp,slot_18
+ESP_020,ESP,20,ESP 20,MIKEL OYARZABAL,player,esp,slot_20
+ESP_019,ESP,19,ESP 19,Unknown,player,esp,slot_19
+MEX_005,MEX,5,MEX 5,To be completed,player,mex,slot_05
+MEX_009,MEX,9,MEX 9,CARLOS RODRÍGUEZ,player,mex,slot_09
+MEX_010,MEX,10,MEX 10,EDSON ÁLVAREZ,player,mex,slot_10
+MEX_013,MEX,13,MEX 13,TEAM PHOTO,team_photo,mex,slot_13
+MEX_001,MEX,1,MEX 1,BADGE,badge,mex,slot_01
+MEX_002,MEX,2,MEX 2,LUIS MALAGÓN,player,mex,slot_02
+MEX_003,MEX,3,MEX 3,JOHAN VÁSQUEZ,player,mex,slot_03
+MEX_004,MEX,4,MEX 4,JORGE SÁNCHEZ,player,mex,slot_04
+MEX_006,MEX,6,MEX 6,JESús GALLARDO,player,mex,slot_06
+MEX_007,MEX,7,MEX 7,ISRAEL REYES,player,mex,slot_07
+MEX_008,MEX,8,MEX 8,DIEGO LAINEZ,player,mex,slot_08
+MEX_011,MEX,11,MEX 11,ORBELÍN PINEDA,player,mex,slot_11
+MEX_012,MEX,12,MEX 12,MARCELO RUIZ,player,mex,slot_12
+MEX_014,MEX,14,MEX 14,ÉRICK SÁNCHEZ,player,mex,slot_14
+MEX_015,MEX,15,MEX 15,HIRVING LOZANO,player,mex,slot_15
+MEX_016,MEX,16,MEX 16,SANTIAGO GIMÉNEZ,player,mex,slot_16
+MEX_017,MEX,17,MEX 17,RAºl JIMÉNEZ,player,mex,slot_17
+MEX_018,MEX,18,MEX 18,ALEXIS VEGA,player,mex,slot_18
+MEX_019,MEX,19,MEX 19,ROBERTO ALVARADO,player,mex,slot_19
+MEX_020,MEX,20,MEX 20,CéSAR HUERTA,player,mex,slot_20
+RSA_006,RSA,6,RSA 6,SAMUKELE KABINI,player,rsa,slot_06
+RSA_013,RSA,13,RSA 13,TEAM PHOTO,team_photo,rsa,slot_13
+RSA_017,RSA,17,RSA 17,To be completed,player,rsa,slot_17
+RSA_020,RSA,20,RSA 20,To be completed,player,rsa,slot_20
+RSA_001,RSA,1,RSA 1,BADGE,badge,rsa,slot_01
+RSA_002,RSA,2,RSA 2,RONWEN WILLIAMS,player,rsa,slot_02
+RSA_003,RSA,3,RSA 3,SIPHO CHAINE,player,rsa,slot_03
+RSA_004,RSA,4,RSA 4,AUBREY MODIBA,player,rsa,slot_04
+RSA_005,RSA,5,RSA 5,To be completed,player,rsa,slot_05
+RSA_007,RSA,7,RSA 7,KHULUMANI NDAMANE,player,rsa,slot_07
+RSA_008,RSA,8,RSA 8,SIVABONGA NGEZANA,player,rsa,slot_08
+RSA_009,RSA,9,RSA 9,To be completed,player,rsa,slot_09
+RSA_010,RSA,10,RSA 10,NKOSINATHI SIBISI,player,rsa,slot_10
+RSA_011,RSA,11,RSA 11,TEBOHO MOKOENA,player,rsa,slot_11
+RSA_012,RSA,12,RSA 12,THALENTE MBATHA,player,rsa,slot_12
+RSA_014,RSA,14,RSA 14,BATHUSI AUBAAS,player,rsa,slot_14
+RSA_015,RSA,15,RSA 15,VIVA SITHOLE,player,rsa,slot_15
+RSA_016,RSA,16,RSA 16,SIPHO MBULE,player,rsa,slot_16
+RSA_018,RSA,18,RSA 18,JOHANN RAVYNERS,player,rsa,slot_18
+RSA_019,RSA,19,RSA 19,MOLAU NKOTA,player,rsa,slot_19
+KOR_002,KOR,2,KOR 2,SEUNGWOO JO,player,kor,slot_02
+KOR_010,KOR,10,KOR 10,JAEDUNG LEE,player,kor,slot_10
+KOR_013,KOR,13,KOR 13,TEAM PHOTO,team_photo,kor,slot_13
+KOR_019,KOR,19,KOR 19,HEECHAN HWANG,player,kor,slot_19
+KOR_001,KOR,1,KOR 1,BADGE,badge,kor,slot_01
+KOR_003,KOR,3,KOR 3,SEUNG-GYU KIM,player,kor,slot_03
+KOR_004,KOR,4,KOR 4,MINJAE KIM,player,kor,slot_04
+KOR_005,KOR,5,KOR 5,To be completed,player,kor,slot_05
+KOR_006,KOR,6,KOR 6,YOUNGWOO SEOL,player,kor,slot_06
+KOR_007,KOR,7,KOR 7,HANBEOM LEE,player,kor,slot_07
+KOR_008,KOR,8,KOR 8,TAESEOK LEE,player,kor,slot_08
+KOR_009,KOR,9,KOR 9,MYUNGJAE LEE,player,kor,slot_09
+KOR_011,KOR,11,KOR 11,INBEOM HWANG,player,kor,slot_11
+KOR_012,KOR,12,KOR 12,KANGIN LEE,player,kor,slot_12
+KOR_014,KOR,14,KOR 14,SEUNGHO PAIK,player,kor,slot_14
+KOR_015,KOR,15,KOR 15,JENS CASTROP,player,kor,slot_15
+KOR_016,KOR,16,KOR 16,HEUNGMIN SON,player,kor,slot_16
+KOR_017,KOR,17,KOR 17,GUESUNG CHO,player,kor,slot_17
+KOR_018,KOR,18,KOR 18,To be completed,player,kor,slot_18
+KOR_020,KOR,20,KOR 20,HYEONGYU OH,player,kor,slot_20
+CZE_001,CZE,1,CZE 1,BADGE,badge,cze,slot_01
+CZE_003,CZE,3,CZE 3,To be completed,player,cze,slot_03
+CZE_004,CZE,4,CZE 4,To be completed,player,cze,slot_04
+CZE_006,CZE,6,CZE 6,To be completed,player,cze,slot_06
+CZE_009,CZE,9,CZE 9,Michal Sadílek,player,cze,slot_09
+CZE_015,CZE,15,CZE 15,To be completed,player,cze,slot_15
+CZE_016,CZE,16,CZE 16,To be completed,player,cze,slot_16
+CZE_017,CZE,17,CZE 17,To be completed,player,cze,slot_17
+CZE_020,CZE,20,CZE 20,Patrik Schick,player,cze,slot_20
+CZE_002,CZE,2,CZE 2,Matěj Kovář,player,cze,slot_02
+CZE_005,CZE,5,CZE 5,Vladimír Coufal,player,cze,slot_05
+CZE_007,CZE,7,CZE 7,Tomáš Holeš,player,cze,slot_07
+CZE_008,CZE,8,CZE 8,David Zima,player,cze,slot_08
+CZE_010,CZE,10,CZE 10,Lukáš Provod,player,cze,slot_10
+CZE_011,CZE,11,CZE 11,Lukáš Červ,player,cze,slot_11
+CZE_012,CZE,12,CZE 12,Tomáš Souček,player,cze,slot_12
+CZE_013,CZE,13,CZE 13,TEAM PHOTO,team_photo,cze,slot_13
+CZE_014,CZE,14,CZE 14,Pavel Šulc,player,cze,slot_14
+CZE_018,CZE,18,CZE 18,Václav Černý,player,cze,slot_18
+CZE_019,CZE,19,CZE 19,Adam Hložek,player,cze,slot_19
+CAN_001,CAN,1,CAN 1,BADGE,badge,can,slot_01
+CAN_002,CAN,2,CAN 2,ALFRED JOHNSTON,player,can,slot_02
+CAN_004,CAN,4,CAN 4,SAMUEL ADEKUGBE,player,can,slot_04
+CAN_006,CAN,6,CAN 6,RICHIE LARVEA,player,can,slot_06
+CAN_008,CAN,8,CAN 8,MOSES BOMBITO,player,can,slot_08
+CAN_010,CAN,10,CAN 10,KAMAL MILLER,player,can,slot_10
+CAN_012,CAN,12,CAN 12,STEPHEN EUSTÁQUIO,player,can,slot_12
+CAN_013,CAN,13,CAN 13,TEAM PHOTO,team_photo,can,slot_13
+CAN_019,CAN,19,CAN 19,CYLE LARIN,player,can,slot_19
+CAN_003,CAN,3,CAN 3,ALPHONSO DAVIES,player,can,slot_03
+CAN_005,CAN,5,CAN 5,To be completed,player,can,slot_05
+CAN_007,CAN,7,CAN 7,DEREK CORNELIUS,player,can,slot_07
+CAN_009,CAN,9,CAN 9,To be completed,player,can,slot_09
+CAN_011,CAN,11,CAN 11,ISMAÄL KONÉ,player,can,slot_11
+CAN_014,CAN,14,CAN 14,JACOB SHAFFELBURG,player,can,slot_14
+CAN_015,CAN,15,CAN 15,MATHIEU CHOINIÈRE,player,can,slot_15
+CAN_016,CAN,16,CAN 16,NIKO SIGUR,player,can,slot_16
+CAN_017,CAN,17,CAN 17,TAJON BUCHANAN,player,can,slot_17
+CAN_018,CAN,18,CAN 18,LIAM MILLAR,player,can,slot_18
+CAN_020,CAN,20,CAN 20,JONATHAN DAVID,player,can,slot_20
+BIH_007,BIH,7,BIH 7,IVAN BAŠIĆ,player,bih,slot_07
+BIH_010,BIH,10,BIH 10,AFGAN GIGOVIĆ,player,bih,slot_10
+BIH_011,BIH,11,BIH 11,Unknown,player,bih,slot_11
+BIH_014,BIH,14,BIH 14,Unknown,player,bih,slot_14
+BIH_018,BIH,18,BIH 18,EDIN DŽEKO,player,bih,slot_18
+BIH_019,BIH,19,BIH 19,SANJED BAŽDAR,player,bih,slot_19
+BIH_020,BIH,20,BIH 20,HARIS TAKAČEVIĆ,player,bih,slot_20
+BIH_001,BIH,1,BIH 1,BADGE,badge,bih,slot_01
+BIH_002,BIH,2,BIH 2,NIKOLA VASILJ,player,bih,slot_02
+BIH_003,BIH,3,BIH 3,AMAR DEDIĆ,player,bih,slot_03
+BIH_004,BIH,4,BIH 4,SEAD KOLAŠINAC,player,bih,slot_04
+BIH_005,BIH,5,BIH 5,To be completed,player,bih,slot_05
+BIH_006,BIH,6,BIH 6,NIHAD MUJAKIĆ,player,bih,slot_06
+BIH_008,BIH,8,BIH 8,AMIR HADŽIAHMETOVIĆ,player,bih,slot_08
+BIH_009,BIH,9,BIH 9,BENJAMIN TAHIROVIĆ,player,bih,slot_09
+BIH_012,BIH,12,BIH 12,To be completed,player,bih,slot_12
+BIH_013,BIH,13,BIH 13,TEAM PHOTO,team_photo,bih,slot_13
+BIH_015,BIH,15,BIH 15,ESMIR BAJRAKTAREVIĆ,player,bih,slot_15
+BIH_016,BIH,16,BIH 16,AMAR MEMIĆ,player,bih,slot_16
+BIH_017,BIH,17,BIH 17,ERMEDIN DEMIROVIĆ,player,bih,slot_17
+QAT_004,QAT,4,QAT 4,To be completed,player,qat,slot_04
+QAT_005,QAT,5,QAT 5,To be completed,player,qat,slot_05
+QAT_014,QAT,14,QAT 14,To be completed,player,qat,slot_14
+QAT_018,QAT,18,QAT 18,To be completed,player,qat,slot_18
+QAT_001,QAT,1,QAT 1,BADGE,badge,qat,slot_01
+QAT_002,QAT,2,QAT 2,MESHAAL BARSHAM,player,qat,slot_02
+QAT_003,QAT,3,QAT 3,SULTAN ALBRAKE,player,qat,slot_03
+QAT_006,QAT,6,QAT 6,BOUALEM KHOUKHI,player,qat,slot_06
+QAT_007,QAT,7,QAT 7,PEDRO MIGUEL,player,qat,slot_07
+QAT_008,QAT,8,QAT 8,TAREK SALMAN,player,qat,slot_08
+QAT_009,QAT,9,QAT 9,MOHAMMED MANNAI,player,qat,slot_09
+QAT_010,QAT,10,QAT 10,KARIM BOUDIAF,player,qat,slot_10
+QAT_011,QAT,11,QAT 11,ASSIM MADIBO,player,qat,slot_11
+QAT_012,QAT,12,QAT 12,HAMED FATEHI,player,qat,slot_12
+QAT_013,QAT,13,QAT 13,TEAM PHOTO,team_photo,qat,slot_13
+QAT_015,QAT,15,QAT 15,ABDULAZIZ HATEM,player,qat,slot_15
+QAT_016,QAT,16,QAT 16,HASSAN AL-HAYDOS,player,qat,slot_16
+QAT_017,QAT,17,QAT 17,EDMÈLSON JUNIOR,player,qat,slot_17
+QAT_019,QAT,19,QAT 19,AHMED AL-GANEHI,player,qat,slot_19
+QAT_020,QAT,20,QAT 20,ALMOEZ ALI,player,qat,slot_20
+SUI_010,SUI,10,SUI 10,To be completed,player,sui,slot_10
+SUI_017,SUI,17,SUI 17,To be completed,player,sui,slot_17
+SUI_018,SUI,18,SUI 18,To be completed,player,sui,slot_18
+SUI_001,SUI,1,SUI 1,BADGE,badge,sui,slot_01
+SUI_002,SUI,2,SUI 2,Gregor Kobel,player,sui,slot_02
+SUI_003,SUI,3,SUI 3,Yvon Mvogo,player,sui,slot_03
+SUI_004,SUI,4,SUI 4,Manuel Akanji,player,sui,slot_04
+SUI_005,SUI,5,SUI 5,To be completed,player,sui,slot_05
+SUI_006,SUI,6,SUI 6,Nico Elvedi,player,sui,slot_06
+SUI_007,SUI,7,SUI 7,Aurèle Amenda,player,sui,slot_07
+SUI_008,SUI,8,SUI 8,Silvan Widmer,player,sui,slot_08
+SUI_009,SUI,9,SUI 9,Granit Xhaka,player,sui,slot_09
+SUI_011,SUI,11,SUI 11,Remo Freuler,player,sui,slot_11
+SUI_012,SUI,12,SUI 12,Fabian Rieder,player,sui,slot_12
+SUI_013,SUI,13,SUI 13,TEAM PHOTO,team_photo,sui,slot_13
+SUI_014,SUI,14,SUI 14,Ardon Jashari,player,sui,slot_14
+SUI_015,SUI,15,SUI 15,Johan Manzambi,player,sui,slot_15
+SUI_016,SUI,16,SUI 16,Michel Aebischer,player,sui,slot_16
+SUI_019,SUI,19,SUI 19,Dan Ndoye,player,sui,slot_19
+SUI_020,SUI,20,SUI 20,Zeki Amdouni,player,sui,slot_20
+BRA_005,BRA,5,BRA 5,To be completed,player,bra,slot_05
+BRA_007,BRA,7,BRA 7,To be completed,player,bra,slot_07
+BRA_011,BRA,11,BRA 11,To be completed,player,bra,slot_11
+BRA_020,BRA,20,BRA 20,ESTÊVÃO,player,bra,slot_20
+BRA_001,BRA,1,BRA 1,BADGE,badge,bra,slot_01
+BRA_002,BRA,2,BRA 2,ALISSON,player,bra,slot_02
+BRA_003,BRA,3,BRA 3,BENTO,player,bra,slot_03
+BRA_004,BRA,4,BRA 4,MARQUINHOS,player,bra,slot_04
+BRA_006,BRA,6,BRA 6,GABRIEL MAGALHÃES,player,bra,slot_06
+BRA_008,BRA,8,BRA 8,DANILO,player,bra,slot_08
+BRA_009,BRA,9,BRA 9,WESLEY,player,bra,slot_09
+BRA_010,BRA,10,BRA 10,LUCAS PAQUETÁ,player,bra,slot_10
+BRA_012,BRA,12,BRA 12,BRUNO GUIMARÃES,player,bra,slot_12
+BRA_013,BRA,13,BRA 13,TEAM PHOTO,team_photo,bra,slot_13
+BRA_014,BRA,14,BRA 14,VINÍCIUS JÚNIOR,player,bra,slot_14
+BRA_015,BRA,15,BRA 15,RODRIGO,player,bra,slot_15
+BRA_016,BRA,16,BRA 16,JOÃO PEDRO,player,bra,slot_16
+BRA_017,BRA,17,BRA 17,MATHEUS CUNHA,player,bra,slot_17
+BRA_018,BRA,18,BRA 18,GABRIEL MARTINELLI,player,bra,slot_18
+BRA_019,BRA,19,BRA 19,RAPHINHA,player,bra,slot_19
+MAR_002,MAR,2,MAR 2,MUNIR EL KAJOUI,player,mar,slot_02
+MAR_005,MAR,5,MAR 5,To be completed,player,mar,slot_05
+MAR_019,MAR,19,MAR 19,BRAHIM DIAZ,player,mar,slot_19
+MAR_001,MAR,1,MAR 1,BADGE,badge,mar,slot_01
+MAR_003,MAR,3,MAR 3,To be completed,player,mar,slot_03
+MAR_004,MAR,4,MAR 4,ACHRAF HAKIMI,player,mar,slot_04
+MAR_006,MAR,6,MAR 6,NOUSSAIR MAZRAOUI,player,mar,slot_06
+MAR_007,MAR,7,MAR 7,ROMAIN SAISS,player,mar,slot_07
+MAR_008,MAR,8,MAR 8,JAWAD EL YAMIQ,player,mar,slot_08
+MAR_009,MAR,9,MAR 9,ADAM MASINA,player,mar,slot_09
+MAR_010,MAR,10,MAR 10,SOUFYAN AMRABAT,player,mar,slot_10
+MAR_011,MAR,11,MAR 11,To be completed,player,mar,slot_11
+MAR_012,MAR,12,MAR 12,To be completed,player,mar,slot_12
+MAR_013,MAR,13,MAR 13,TEAM PHOTO,team_photo,mar,slot_13
+MAR_014,MAR,14,MAR 14,To be completed,player,mar,slot_14
+MAR_015,MAR,15,MAR 15,To be completed,player,mar,slot_15
+MAR_016,MAR,16,MAR 16,YOUSSEF EN-NESYRI,player,mar,slot_16
+MAR_017,MAR,17,MAR 17,ABDE EZZALZOULI,player,mar,slot_17
+MAR_018,MAR,18,MAR 18,SOUFYANE RAHIMI,player,mar,slot_18
+MAR_020,MAR,20,MAR 20,AYOUB EL KAABI,player,mar,slot_20
+HAI_003,HAI,3,HAI 3,To be completed,player,hai,slot_03
+HAI_004,HAI,4,HAI 4,To be completed,player,hai,slot_04
+HAI_014,HAI,14,HAI 14,To be completed,player,hai,slot_14
+HAI_015,HAI,15,HAI 15,To be completed,player,hai,slot_15
+HAI_016,HAI,16,HAI 16,To be completed,player,hai,slot_16
+HAI_020,HAI,20,HAI 20,FRANTZON PIERROT,player,hai,slot_20
+HAI_001,HAI,1,HAI 1,BADGE,badge,hai,slot_01
+HAI_002,HAI,2,HAI 2,JOHNNY PLACIDE,player,hai,slot_02
+HAI_005,HAI,5,HAI 5,To be completed,player,hai,slot_05
+HAI_006,HAI,6,HAI 6,RICARDO ADE,player,hai,slot_06
+HAI_007,HAI,7,HAI 7,DUKE LACROIX,player,hai,slot_07
+HAI_008,HAI,8,HAI 8,GARVEN METUSALA,player,hai,slot_08
+HAI_009,HAI,9,HAI 9,To be completed,player,hai,slot_09
+HAI_010,HAI,10,HAI 10,LEVERTON PIERRE,player,hai,slot_10
+HAI_011,HAI,11,HAI 11,DANLEY JEAN JACQUES,player,hai,slot_11
+HAI_012,HAI,12,HAI 12,JEAN-RIKNER BELLEGARDE,player,hai,slot_12
+HAI_013,HAI,13,HAI 13,TEAM PHOTO,team_photo,hai,slot_13
+HAI_017,HAI,17,HAI 17,RUBEN PROVIDENCE,player,hai,slot_17
+HAI_018,HAI,18,HAI 18,DUCKENS NAZON,player,hai,slot_18
+HAI_019,HAI,19,HAI 19,LOUICIUS DEEDSON,player,hai,slot_19
+SCO_008,SCO,8,SCO 8,John Souttar,player,sco,slot_08
+SCO_012,SCO,12,SCO 12,Billy Gilmour,player,sco,slot_12
+SCO_001,SCO,1,SCO 1,BADGE,badge,sco,slot_01
+SCO_002,SCO,2,SCO 2,Angus Gunn,player,sco,slot_02
+SCO_003,SCO,3,SCO 3,Jack Hendry,player,sco,slot_03
+SCO_004,SCO,4,SCO 4,Kieran Tierney,player,sco,slot_04
+SCO_005,SCO,5,SCO 5,To be completed,player,sco,slot_05
+SCO_006,SCO,6,SCO 6,Andrew Robertson,player,sco,slot_06
+SCO_007,SCO,7,SCO 7,Scott McKenna,player,sco,slot_07
+SCO_009,SCO,9,SCO 9,Anthony Ralston,player,sco,slot_09
+SCO_010,SCO,10,SCO 10,Grant Hanley,player,sco,slot_10
+SCO_011,SCO,11,SCO 11,Scott McTominay,player,sco,slot_11
+SCO_013,SCO,13,SCO 13,TEAM PHOTO,team_photo,sco,slot_13
+SCO_014,SCO,14,SCO 14,Lewis Ferguson,player,sco,slot_14
+SCO_015,SCO,15,SCO 15,Ryan Christie,player,sco,slot_15
+SCO_016,SCO,16,SCO 16,Kenny McLean,player,sco,slot_16
+SCO_017,SCO,17,SCO 17,John McGinn,player,sco,slot_17
+SCO_018,SCO,18,SCO 18,Lyndon Dykes,player,sco,slot_18
+SCO_019,SCO,19,SCO 19,Che Adams,player,sco,slot_19
+SCO_020,SCO,20,SCO 20,Ben Gannon-Doak,player,sco,slot_20
+USA_002,USA,2,USA 2,Matt Freese,player,usa,slot_02
+USA_005,USA,5,USA 5,To be completed,player,usa,slot_05
+USA_006,USA,6,USA 6,Antonee Robinson,player,usa,slot_06
+USA_007,USA,7,USA 7,Tyler Adams,player,usa,slot_07
+USA_008,USA,8,USA 8,Tanner Tessmann,player,usa,slot_08
+USA_011,USA,11,USA 11,Unknown,player,usa,slot_11
+USA_012,USA,12,USA 12,Unknown,player,usa,slot_12
+USA_013,USA,13,USA 13,TEAM PHOTO,team_photo,usa,slot_13
+USA_018,USA,18,USA 18,To be completed,player,usa,slot_18
+USA_001,USA,1,USA 1,BADGE,badge,usa,slot_01
+USA_003,USA,3,USA 3,Chris Richards,player,usa,slot_03
+USA_004,USA,4,USA 4,Tim Ream,player,usa,slot_04
+USA_009,USA,9,USA 9,To be completed,player,usa,slot_09
+USA_010,USA,10,USA 10,Weston McKennie,player,usa,slot_10
+USA_014,USA,14,USA 14,Diego Luna,player,usa,slot_14
+USA_015,USA,15,USA 15,Malik Tillman,player,usa,slot_15
+USA_016,USA,16,USA 16,Christian Pulisic,player,usa,slot_16
+USA_017,USA,17,USA 17,Brenden Aaronson,player,usa,slot_17
+USA_019,USA,19,USA 19,Haji Wright,player,usa,slot_19
+USA_020,USA,20,USA 20,Folarin Balogun,player,usa,slot_20
+PAR_003,PAR,3,PAR 3,Unknown,player,par,slot_03
+PAR_007,PAR,7,PAR 7,Unknown,player,par,slot_07
+PAR_001,PAR,1,PAR 1,BADGE,badge,par,slot_01
+PAR_002,PAR,2,PAR 2,ROBERTO FERNÁNDEZ,player,par,slot_02
+PAR_004,PAR,4,PAR 4,GUSTAVO GÓMEZ,player,par,slot_04
+PAR_005,PAR,5,PAR 5,To be completed,player,par,slot_05
+PAR_006,PAR,6,PAR 6,JUAN JOSÉ CÁCERES,player,par,slot_06
+PAR_008,PAR,8,PAR 8,JUNIOR ALONSO,player,par,slot_08
+PAR_009,PAR,9,PAR 9,MATHÍAS VILLASANTI,player,par,slot_09
+PAR_010,PAR,10,PAR 10,DIEGO GÓMEZ,player,par,slot_10
+PAR_011,PAR,11,PAR 11,DAMIAN BOBADILLA,player,par,slot_11
+PAR_012,PAR,12,PAR 12,ANDRÉS CUBAS,player,par,slot_12
+PAR_013,PAR,13,PAR 13,TEAM PHOTO,team_photo,par,slot_13
+PAR_014,PAR,14,PAR 14,MATÍAS GALARZA FONDA,player,par,slot_14
+PAR_015,PAR,15,PAR 15,JULIO ENCISO,player,par,slot_15
+PAR_016,PAR,16,PAR 16,ALEJANDRO ROMERO GAMARRA,player,par,slot_16
+PAR_017,PAR,17,PAR 17,MIGUEL ALMIRÓN,player,par,slot_17
+PAR_018,PAR,18,PAR 18,RAMÓN SOSA,player,par,slot_18
+PAR_019,PAR,19,PAR 19,ÁNGEL ROMERO,player,par,slot_19
+PAR_020,PAR,20,PAR 20,ANTONIO SANABRIA,player,par,slot_20
+AUS_003,AUS,3,AUS 3,To be completed,player,aus,slot_03
+AUS_014,AUS,14,AUS 14,To be completed,player,aus,slot_14
+AUS_020,AUS,20,AUS 20,To be completed,player,aus,slot_20
+AUS_001,AUS,1,AUS 1,BADGE,badge,aus,slot_01
+AUS_002,AUS,2,AUS 2,Mathew Ryan,player,aus,slot_02
+AUS_004,AUS,4,AUS 4,Harry Souttar,player,aus,slot_04
+AUS_005,AUS,5,AUS 5,To be completed,player,aus,slot_05
+AUS_006,AUS,6,AUS 6,Jordan Bos,player,aus,slot_06
+AUS_007,AUS,7,AUS 7,Aziz Behich,player,aus,slot_07
+AUS_008,AUS,8,AUS 8,Cameron Burgess,player,aus,slot_08
+AUS_009,AUS,9,AUS 9,Lewis Miller,player,aus,slot_09
+AUS_010,AUS,10,AUS 10,Milos Degenek,player,aus,slot_10
+AUS_011,AUS,11,AUS 11,Jackson Irvine,player,aus,slot_11
+AUS_012,AUS,12,AUS 12,Riley McGree,player,aus,slot_12
+AUS_013,AUS,13,AUS 13,TEAM PHOTO,team_photo,aus,slot_13
+AUS_015,AUS,15,AUS 15,Connor Metcalfe,player,aus,slot_15
+AUS_016,AUS,16,AUS 16,Patrick Yazbek,player,aus,slot_16
+AUS_017,AUS,17,AUS 17,Craig Goodwin,player,aus,slot_17
+AUS_018,AUS,18,AUS 18,Kusini Vengi,player,aus,slot_18
+AUS_019,AUS,19,AUS 19,Nestory Irankunda,player,aus,slot_19
+TUR_003,TUR,3,TUR 3,MERİT DEMİRAL,player,tur,slot_03
+TUR_004,TUR,4,TUR 4,ZEYNUTTIN ÇELİK,player,tur,slot_04
+TUR_007,TUR,7,TUR 7,ABDÜLKERİM BARDAKCI,player,tur,slot_07
+TUR_014,TUR,14,TUR 14,ARDA GÜLER,player,tur,slot_14
+TUR_001,TUR,1,TUR 1,BADGE,badge,tur,slot_01
+TUR_002,TUR,2,TUR 2,UĞURCAN ÇAKIR,player,tur,slot_02
+TUR_005,TUR,5,TUR 5,To be completed,player,tur,slot_05
+TUR_006,TUR,6,TUR 6,To be completed,player,tur,slot_06
+TUR_008,TUR,8,TUR 8,FERDİ KADIOĞLU,player,tur,slot_08
+TUR_009,TUR,9,TUR 9,KAAN AYHAN,player,tur,slot_09
+TUR_010,TUR,10,TUR 10,İSMAIL VÜKSEK,player,tur,slot_10
+TUR_011,TUR,11,TUR 11,HAKAN ÇALHANOĞLU,player,tur,slot_11
+TUR_012,TUR,12,TUR 12,ORKUN KÖKÇÜ,player,tur,slot_12
+TUR_013,TUR,13,TUR 13,TEAM PHOTO,team_photo,tur,slot_13
+TUR_015,TUR,15,TUR 15,To be completed,player,tur,slot_15
+TUR_016,TUR,16,TUR 16,To be completed,player,tur,slot_16
+TUR_017,TUR,17,TUR 17,To be completed,player,tur,slot_17
+TUR_018,TUR,18,TUR 18,To be completed,player,tur,slot_18
+TUR_019,TUR,19,TUR 19,To be completed,player,tur,slot_19
+TUR_020,TUR,20,TUR 20,To be completed,player,tur,slot_20
+GER_005,GER,5,GER 5,To be completed,player,ger,slot_05
+GER_011,GER,11,GER 11,Unknown,player,ger,slot_11
+GER_014,GER,14,GER 14,Unknown,player,ger,slot_14
+GER_017,GER,17,GER 17,Unknown,player,ger,slot_17
+GER_001,GER,1,GER 1,BADGE,badge,ger,slot_01
+GER_002,GER,2,GER 2,To be completed,player,ger,slot_02
+GER_003,GER,3,GER 3,JONATHAN TAH,player,ger,slot_03
+GER_004,GER,4,GER 4,DAVID RAUM,player,ger,slot_04
+GER_006,GER,6,GER 6,ANTONIO RUDIGER,player,ger,slot_06
+GER_007,GER,7,GER 7,WALDEMAR ANTON,player,ger,slot_07
+GER_008,GER,8,GER 8,Ridle BAKU,player,ger,slot_08
+GER_009,GER,9,GER 9,MAXIMILIAN MITTELSTADT,player,ger,slot_09
+GER_010,GER,10,GER 10,JOSHUA KIMMICH,player,ger,slot_10
+GER_012,GER,12,GER 12,FELIX NMECHA,player,ger,slot_12
+GER_013,GER,13,GER 13,TEAM PHOTO,team_photo,ger,slot_13
+GER_015,GER,15,GER 15,JAMAL MUSIALA,player,ger,slot_15
+GER_016,GER,16,GER 16,To be completed,player,ger,slot_16
+GER_018,GER,18,GER 18,LEROY SANE,player,ger,slot_18
+GER_019,GER,19,GER 19,To be completed,player,ger,slot_19
+GER_020,GER,20,GER 20,To be completed,player,ger,slot_20
+CUW_008,CUW,8,CUW 8,Shekendy Sambo,player,cuw,slot_08
+CUW_009,CUW,9,CUW 9,Livano Comenencia,player,cuw,slot_09
+CUW_011,CUW,11,CUW 11,To be completed,player,cuw,slot_11
+CUW_018,CUW,18,CUW 18,To be completed,player,cuw,slot_18
+CUW_001,CUW,1,CUW 1,BADGE,badge,cuw,slot_01
+CUW_002,CUW,2,CUW 2,Eloy Room,player,cuw,slot_02
+CUW_003,CUW,3,CUW 3,Armando Obispo,player,cuw,slot_03
+CUW_004,CUW,4,CUW 4,Sherel Floranus,player,cuw,slot_04
+CUW_005,CUW,5,CUW 5,To be completed,player,cuw,slot_05
+CUW_006,CUW,6,CUW 6,Joshua Brenet,player,cuw,slot_06
+CUW_007,CUW,7,CUW 7,Roshon Van Eijma,player,cuw,slot_07
+CUW_010,CUW,10,CUW 10,Godfried Roemeratoe,player,cuw,slot_10
+CUW_012,CUW,12,CUW 12,Leandro Bacuna,player,cuw,slot_12
+CUW_013,CUW,13,CUW 13,TEAM PHOTO,team_photo,cuw,slot_13
+CUW_014,CUW,14,CUW 14,Tahith Chong,player,cuw,slot_14
+CUW_015,CUW,15,CUW 15,Kenji Gorre,player,cuw,slot_15
+CUW_016,CUW,16,CUW 16,To be completed,player,cuw,slot_16
+CUW_017,CUW,17,CUW 17,To be completed,player,cuw,slot_17
+CUW_019,CUW,19,CUW 19,Gervane Kastaneer,player,cuw,slot_19
+CUW_020,CUW,20,CUW 20,Sontje Hansen,player,cuw,slot_20
+CIV_001,CIV,1,CIV 1,BADGE,badge,civ,slot_01
+CIV_011,CIV,11,CIV 11,To be completed,player,civ,slot_11
+CIV_012,CIV,12,CIV 12,To be completed,player,civ,slot_12
+CIV_015,CIV,15,CIV 15,To be completed,player,civ,slot_15
+CIV_017,CIV,17,CIV 17,To be completed,player,civ,slot_17
+CIV_019,CIV,19,CIV 19,To be completed,player,civ,slot_19
+CIV_002,CIV,2,CIV 2,Vahia FOFANA,player,civ,slot_02
+CIV_003,CIV,3,CIV 3,Ghislain KONAN,player,civ,slot_03
+CIV_004,CIV,4,CIV 4,Wilfried SINGO,player,civ,slot_04
+CIV_005,CIV,5,CIV 5,To be completed,player,civ,slot_05
+CIV_006,CIV,6,CIV 6,Evan NDICKA,player,civ,slot_06
+CIV_007,CIV,7,CIV 7,Willy BOLY,player,civ,slot_07
+CIV_008,CIV,8,CIV 8,Emmanuel AGBADOU,player,civ,slot_08
+CIV_009,CIV,9,CIV 9,Ousmane DIOMANDE,player,civ,slot_09
+CIV_010,CIV,10,CIV 10,Franck KESSIÉ,player,civ,slot_10
+CIV_013,CIV,13,CIV 13,TEAM PHOTO,team_photo,civ,slot_13
+CIV_014,CIV,14,CIV 14,Jean-Philippe GBAMIN,player,civ,slot_14
+CIV_016,CIV,16,CIV 16,Sébastien HALLER,player,civ,slot_16
+CIV_018,CIV,18,CIV 18,Van DIOMANDE,player,civ,slot_18
+CIV_020,CIV,20,CIV 20,Oumar DIAKITÉ,player,civ,slot_20
+ECU_005,ECU,5,ECU 5,To be completed,player,ecu,slot_05
+ECU_006,ECU,6,ECU 6,PERVIS ESTUPINAN,player,ecu,slot_06
+ECU_013,ECU,13,ECU 13,TEAM PHOTO,team_photo,ecu,slot_13
+ECU_001,ECU,1,ECU 1,BADGE,badge,ecu,slot_01
+ECU_002,ECU,2,ECU 2,HERNAN GALINDEZ,player,ecu,slot_02
+ECU_003,ECU,3,ECU 3,GONZALO VALLE,player,ecu,slot_03
+ECU_004,ECU,4,ECU 4,PIERO HINCAPIE,player,ecu,slot_04
+ECU_007,ECU,7,ECU 7,ANGELO PRECIADO,player,ecu,slot_07
+ECU_008,ECU,8,ECU 8,JOEL ORDOÑEZ,player,ecu,slot_08
+ECU_009,ECU,9,ECU 9,MOISES CAICEDO,player,ecu,slot_09
+ECU_010,ECU,10,ECU 10,ALAN FRANCO,player,ecu,slot_10
+ECU_011,ECU,11,ECU 11,KENDRY PAEZ,player,ecu,slot_11
+ECU_012,ECU,12,ECU 12,PEDRO VITE,player,ecu,slot_12
+ECU_014,ECU,14,ECU 14,JOHN YEBOAH,player,ecu,slot_14
+ECU_015,ECU,15,ECU 15,LEONARDO CAMPANA,player,ecu,slot_15
+ECU_016,ECU,16,ECU 16,GONZALO PLATA,player,ecu,slot_16
+ECU_017,ECU,17,ECU 17,NILSON ANGUILO,player,ecu,slot_17
+ECU_018,ECU,18,ECU 18,ALAN MINDA,player,ecu,slot_18
+ECU_019,ECU,19,ECU 19,KEVIN RODRIGUEZ,player,ecu,slot_19
+ECU_020,ECU,20,ECU 20,ENNER VALENCIA,player,ecu,slot_20
+NED_004,NED,4,NED 4,Unknown,player,ned,slot_04
+NED_005,NED,5,NED 5,To be completed,player,ned,slot_05
+NED_009,NED,9,NED 9,To be completed,player,ned,slot_09
+NED_001,NED,1,NED 1,BADGE,badge,ned,slot_01
+NED_002,NED,2,NED 2,BART VERBRUGGEN,player,ned,slot_02
+NED_003,NED,3,NED 3,VIRGIL VAN DIJK,player,ned,slot_03
+NED_006,NED,6,NED 6,DENZEL DUMFRIES,player,ned,slot_06
+NED_007,NED,7,NED 7,NATHAN AKE,player,ned,slot_07
+NED_008,NED,8,NED 8,JEREMIE FRIMPONG,player,ned,slot_08
+NED_010,NED,10,NED 10,TIJJANI REIJNDERS,player,ned,slot_10
+NED_011,NED,11,NED 11,RYAN GRAVENBERCH,player,ned,slot_11
+NED_012,NED,12,NED 12,TEUN KOOPMEINERS,player,ned,slot_12
+NED_013,NED,13,NED 13,TEAM PHOTO,team_photo,ned,slot_13
+NED_014,NED,14,NED 14,FRENKIE DE JONG,player,ned,slot_14
+NED_015,NED,15,NED 15,XAVI SIMONS,player,ned,slot_15
+NED_016,NED,16,NED 16,JUSTIN KLUIVERT,player,ned,slot_16
+NED_017,NED,17,NED 17,MEMPHIS DEPAY,player,ned,slot_17
+NED_018,NED,18,NED 18,DONWELL MALEN,player,ned,slot_18
+NED_019,NED,19,NED 19,WOUT WEGHORST,player,ned,slot_19
+NED_020,NED,20,NED 20,CODY GAKPO,player,ned,slot_20
+JPN_001,JPN,1,JPN 1,BADGE,badge,jpn,slot_01
+JPN_003,JPN,3,JPN 3,HENRY ISEKI MOCHIZUKI,player,jpn,slot_03
+JPN_007,JPN,7,JPN 7,TSUYOSHI WATANABE,player,jpn,slot_07
+JPN_008,JPN,8,JPN 8,KASHI SANO,player,jpn,slot_08
+JPN_002,JPN,2,JPN 2,ZION SUZUKI,player,jpn,slot_02
+JPN_004,JPN,4,JPN 4,AYUMU SEKO,player,jpn,slot_04
+JPN_005,JPN,5,JPN 5,To be completed,player,jpn,slot_05
+JPN_006,JPN,6,JPN 6,SHOGO TANIGUCHI,player,jpn,slot_06
+JPN_009,JPN,9,JPN 9,YUKI SOMA,player,jpn,slot_09
+JPN_010,JPN,10,JPN 10,AO TANAKA,player,jpn,slot_10
+JPN_011,JPN,11,JPN 11,DAICHI KAMADA,player,jpn,slot_11
+JPN_012,JPN,12,JPN 12,TAKEFUSA KUBO,player,jpn,slot_12
+JPN_013,JPN,13,JPN 13,TEAM PHOTO,team_photo,jpn,slot_13
+JPN_014,JPN,14,JPN 14,RITSU DOAN,player,jpn,slot_14
+JPN_015,JPN,15,JPN 15,KEITO NAKAMURA,player,jpn,slot_15
+JPN_016,JPN,16,JPN 16,TAKUMI MINAMINO,player,jpn,slot_16
+JPN_017,JPN,17,JPN 17,SHUTO MACHINO,player,jpn,slot_17
+JPN_018,JPN,18,JPN 18,JUNYA ITO,player,jpn,slot_18
+JPN_019,JPN,19,JPN 19,KOKI OGAWA,player,jpn,slot_19
+JPN_020,JPN,20,JPN 20,AVASE UEDA,player,jpn,slot_20
+SWE_012,SWE,12,SWE 12,Unknown,player,swe,slot_12
+SWE_013,SWE,13,SWE 13,TEAM PHOTO,team_photo,swe,slot_13
+SWE_014,SWE,14,SWE 14,To be completed,player,swe,slot_14
+SWE_016,SWE,16,SWE 16,To be completed,player,swe,slot_16
+SWE_018,SWE,18,SWE 18,To be completed,player,swe,slot_18
+SWE_001,SWE,1,SWE 1,BADGE,badge,swe,slot_01
+SWE_002,SWE,2,SWE 2,Viktor Johansson,player,swe,slot_02
+SWE_003,SWE,3,SWE 3,Isak Hien,player,swe,slot_03
+SWE_004,SWE,4,SWE 4,Gabriel Gudmundsson,player,swe,slot_04
+SWE_005,SWE,5,SWE 5,To be completed,player,swe,slot_05
+SWE_006,SWE,6,SWE 6,Victor Nilsson Lindelof,player,swe,slot_06
+SWE_007,SWE,7,SWE 7,Gustaf Lagerbielke,player,swe,slot_07
+SWE_008,SWE,8,SWE 8,Lucas Bergvall,player,swe,slot_08
+SWE_009,SWE,9,SWE 9,To be completed,player,swe,slot_09
+SWE_010,SWE,10,SWE 10,Jesper Karlstrom,player,swe,slot_10
+SWE_011,SWE,11,SWE 11,Yasin Ayari,player,swe,slot_11
+SWE_015,SWE,15,SWE 15,Ken Sema,player,swe,slot_15
+SWE_017,SWE,17,SWE 17,Dejan Kulusevski,player,swe,slot_17
+SWE_019,SWE,19,SWE 19,Alexander Isak,player,swe,slot_19
+SWE_020,SWE,20,SWE 20,Viktor Gyoekeres,player,swe,slot_20
+TUN_005,TUN,5,TUN 5,To be completed,player,tun,slot_05
+TUN_012,TUN,12,TUN 12,To be completed,player,tun,slot_12
+TUN_018,TUN,18,TUN 18,To be completed,player,tun,slot_18
+TUN_001,TUN,1,TUN 1,BADGE,badge,tun,slot_01
+TUN_002,TUN,2,TUN 2,BECHIR BEN SAID,player,tun,slot_02
+TUN_003,TUN,3,TUN 3,AYMEN DAHMEN,player,tun,slot_03
+TUN_004,TUN,4,TUN 4,YAN VALERY,player,tun,slot_04
+TUN_006,TUN,6,TUN 6,VASSINE MERIAH,player,tun,slot_06
+TUN_007,TUN,7,TUN 7,ALI ABDI,player,tun,slot_07
+TUN_008,TUN,8,TUN 8,DYLAN BRONN,player,tun,slot_08
+TUN_009,TUN,9,TUN 9,ELLVES SKHIRI,player,tun,slot_09
+TUN_010,TUN,10,TUN 10,AISA LAIDOUNI,player,tun,slot_10
+TUN_011,TUN,11,TUN 11,FERJANI SASSI,player,tun,slot_11
+TUN_013,TUN,13,TUN 13,TEAM PHOTO,team_photo,tun,slot_13
+TUN_014,TUN,14,TUN 14,HANNIBAL MEJBRI,player,tun,slot_14
+TUN_015,TUN,15,TUN 15,ELIAS ACHOURI,player,tun,slot_15
+TUN_016,TUN,16,TUN 16,ELIAS SAAD,player,tun,slot_16
+TUN_017,TUN,17,TUN 17,HAZEM MASTOURI,player,tun,slot_17
+TUN_019,TUN,19,TUN 19,SAYFALLAH LTAIEF,player,tun,slot_19
+TUN_020,TUN,20,TUN 20,NAIM SLITI,player,tun,slot_20
+BEL_005,BEL,5,BEL 5,To be completed,player,bel,slot_05
+BEL_006,BEL,6,BEL 6,To be completed,player,bel,slot_06
+BEL_007,BEL,7,BEL 7,To be completed,player,bel,slot_07
+BEL_008,BEL,8,BEL 8,To be completed,player,bel,slot_08
+BEL_001,BEL,1,BEL 1,BADGE,badge,bel,slot_01
+BEL_002,BEL,2,BEL 2,Thibaut Courtois,player,bel,slot_02
+BEL_003,BEL,3,BEL 3,Arthur Theate,player,bel,slot_03
+BEL_004,BEL,4,BEL 4,Timothy Castagne,player,bel,slot_04
+BEL_009,BEL,9,BEL 9,Yuri Tielemans,player,bel,slot_09
+BEL_010,BEL,10,BEL 10,Amadou Onana,player,bel,slot_10
+BEL_011,BEL,11,BEL 11,Nicolas Raskin,player,bel,slot_11
+BEL_012,BEL,12,BEL 12,Alexis Saelemaekers,player,bel,slot_12
+BEL_013,BEL,13,BEL 13,TEAM PHOTO,team_photo,bel,slot_13
+BEL_014,BEL,14,BEL 14,Hans Vanaken,player,bel,slot_14
+BEL_015,BEL,15,BEL 15,Kevin De Bruyne,player,bel,slot_15
+BEL_016,BEL,16,BEL 16,Jérémy Doku,player,bel,slot_16
+BEL_017,BEL,17,BEL 17,Charles De Ketelaere,player,bel,slot_17
+BEL_018,BEL,18,BEL 18,Leandro Trossard,player,bel,slot_18
+BEL_019,BEL,19,BEL 19,Loïs Openda,player,bel,slot_19
+BEL_020,BEL,20,BEL 20,Romelu Lukaku,player,bel,slot_20
+EGV_001,EGV,1,EGV 1,BADGE,badge,egv,slot_01
+EGV_006,EGV,6,EGV 6,Hossam Abdelmaguid,player,egv,slot_06
+EGV_007,EGV,7,EGV 7,To be completed,player,egv,slot_07
+EGV_010,EGV,10,EGV 10,Marwan Attia,player,egv,slot_10
+EGV_012,EGV,12,EGV 12,Hamdy Fathy,player,egv,slot_12
+EGV_013,EGV,13,EGV 13,TEAM PHOTO,team_photo,egv,slot_13
+EGV_016,EGV,16,EGV 16,Omar Kamal,player,egv,slot_16
+EGV_020,EGV,20,EGV 20,Mostafa Mohamed,player,egv,slot_20
+EGV_002,EGV,2,EGV 2,Mohamed Elshenawy,player,egv,slot_02
+EGV_003,EGV,3,EGV 3,Mohamed Hany,player,egv,slot_03
+EGV_004,EGV,4,EGV 4,Mohamed Hamdy,player,egv,slot_04
+EGV_005,EGV,5,EGV 5,To be completed,player,egv,slot_05
+EGV_008,EGV,8,EGV 8,Ramy Rabia,player,egv,slot_08
+EGV_009,EGV,9,EGV 9,Ahmed Fatouh,player,egv,slot_09
+EGV_011,EGV,11,EGV 11,Zizo,player,egv,slot_11
+EGV_014,EGV,14,EGV 14,Mohanad Lasheen,player,egv,slot_14
+EGV_015,EGV,15,EGV 15,Emam Ashour,player,egv,slot_15
+EGV_017,EGV,17,EGV 17,Mohamed Salah,player,egv,slot_17
+EGV_018,EGV,18,EGV 18,To be completed,player,egv,slot_18
+EGV_019,EGV,19,EGV 19,To be completed,player,egv,slot_19
+IRN_006,IRN,6,IRN 6,MILAD MOHAMMADI,player,irn,slot_06
+IRN_009,IRN,9,IRN 9,To be completed,player,irn,slot_09
+IRN_015,IRN,15,IRN 15,To be completed,player,irn,slot_15
+IRN_016,IRN,16,IRN 16,To be completed,player,irn,slot_16
+IRN_019,IRN,19,IRN 19,ALIREZA JAHANBAKHSH,player,irn,slot_19
+IRN_020,IRN,20,IRN 20,ALI GHOLIZADEH,player,irn,slot_20
+IRN_001,IRN,1,IRN 1,BADGE,badge,irn,slot_01
+IRN_002,IRN,2,IRN 2,ALIREZA BEIRANVAND,player,irn,slot_02
+IRN_003,IRN,3,IRN 3,MORTEZA POURALIGANJI,player,irn,slot_03
+IRN_004,IRN,4,IRN 4,EHSAN HAJSFAI,player,irn,slot_04
+IRN_005,IRN,5,IRN 5,To be completed,player,irn,slot_05
+IRN_007,IRN,7,IRN 7,RAMIN REZAEIAN,player,irn,slot_07
+IRN_008,IRN,8,IRN 8,HOSSEIN KANAANI,player,irn,slot_08
+IRN_010,IRN,10,IRN 10,SADEGH MOHARRAMI,player,irn,slot_10
+IRN_011,IRN,11,IRN 11,SAEED EZATOLAHI,player,irn,slot_11
+IRN_012,IRN,12,IRN 12,SAMAN GHODDOS,player,irn,slot_12
+IRN_013,IRN,13,IRN 13,TEAM PHOTO,team_photo,irn,slot_13
+IRN_014,IRN,14,IRN 14,OMID NOORAFKAN,player,irn,slot_14
+IRN_017,IRN,17,IRN 17,SARDAR AZMOUN,player,irn,slot_17
+IRN_018,IRN,18,IRN 18,MEHDI TAREMI,player,irn,slot_18
+CPV_002,CPV,2,CPV 2,To be completed,player,cpv,slot_02
+CPV_006,CPV,6,CPV 6,To be completed,player,cpv,slot_06
+CPV_012,CPV,12,CPV 12,To be completed,player,cpv,slot_12
+CPV_014,CPV,14,CPV 14,To be completed,player,cpv,slot_14
+CPV_001,CPV,1,CPV 1,BADGE,badge,cpv,slot_01
+CPV_003,CPV,3,CPV 3,LOGAN COSTA,player,cpv,slot_03
+CPV_004,CPV,4,CPV 4,PICO,player,cpv,slot_04
+CPV_005,CPV,5,CPV 5,To be completed,player,cpv,slot_05
+CPV_007,CPV,7,CPV 7,WAGNER PINA,player,cpv,slot_07
+CPV_008,CPV,8,CPV 8,JOÃO PAULO,player,cpv,slot_08
+CPV_009,CPV,9,CPV 9,VANNICK SEMEDO,player,cpv,slot_09
+CPV_010,CPV,10,CPV 10,KEVIN PINA,player,cpv,slot_10
+CPV_011,CPV,11,CPV 11,PATRICK ANDRADE,player,cpv,slot_11
+CPV_013,CPV,13,CPV 13,TEAM PHOTO,team_photo,cpv,slot_13
+CPV_015,CPV,15,CPV 15,GARRY RODRIGUES,player,cpv,slot_15
+CPV_016,CPV,16,CPV 16,JOVANE CABRAL,player,cpv,slot_16
+CPV_017,CPV,17,CPV 17,RYAN MENDES,player,cpv,slot_17
+CPV_018,CPV,18,CPV 18,DAILON LIVRAMENTO,player,cpv,slot_18
+CPV_019,CPV,19,CPV 19,WILLY SEMEDO,player,cpv,slot_19
+CPV_020,CPV,20,CPV 20,BEBÉ,player,cpv,slot_20
+KSA_005,KSA,5,KSA 5,To be completed,player,ksa,slot_05
+KSA_006,KSA,6,KSA 6,NAWAF BUWASHL,player,ksa,slot_06
+KSA_015,KSA,15,KSA 15,MARWAN ALSHEHRI,player,ksa,slot_15
+KSA_019,KSA,19,KSA 19,To be completed,player,ksa,slot_19
+KSA_020,KSA,20,KSA 20,To be completed,player,ksa,slot_20
+KSA_001,KSA,1,KSA 1,BADGE,badge,ksa,slot_01
+KSA_002,KSA,2,KSA 2,NAWAF ALAQIDI,player,ksa,slot_02
+KSA_003,KSA,3,KSA 3,ABDULRAHMAN ALSANBI,player,ksa,slot_03
+KSA_004,KSA,4,KSA 4,SAUD ABDULHAMID,player,ksa,slot_04
+KSA_007,KSA,7,KSA 7,MOTEB ALHARBI,player,ksa,slot_07
+KSA_008,KSA,8,KSA 8,HASSAN ALTAMBAKTI,player,ksa,slot_08
+KSA_009,KSA,9,KSA 9,MUSAB ALJUWAWR,player,ksa,slot_09
+KSA_010,KSA,10,KSA 10,ZIYAD ALJOHANI,player,ksa,slot_10
+KSA_011,KSA,11,KSA 11,ABDULLAH ALKHAIBARI,player,ksa,slot_11
+KSA_012,KSA,12,KSA 12,NASSER ALDAWSARI,player,ksa,slot_12
+KSA_013,KSA,13,KSA 13,TEAM PHOTO,team_photo,ksa,slot_13
+KSA_014,KSA,14,KSA 14,SALEH ABU ALSHAMAT,player,ksa,slot_14
+KSA_016,KSA,16,KSA 16,SALEM ALDAWSARI,player,ksa,slot_16
+KSA_017,KSA,17,KSA 17,ABDULRAHMAN ALOBUD,player,ksa,slot_17
+KSA_018,KSA,18,KSA 18,FERAS ALBRIKAN,player,ksa,slot_18
+URU_002,URU,2,URU 2,SERGIO ROCHET,player,uru,slot_02
+URU_014,URU,14,URU 14,NICOLAS DE LA CRUZ,player,uru,slot_14
+URU_017,URU,17,URU 17,To be completed,player,uru,slot_17
+URU_020,URU,20,URU 20,FACUNDO PELLESTRI,player,uru,slot_20
+URU_001,URU,1,URU 1,BADGE,badge,uru,slot_01
+URU_003,URU,3,URU 3,SANTIAGO MELE,player,uru,slot_03
+URU_004,URU,4,URU 4,RONALD ARAUJO,player,uru,slot_04
+URU_005,URU,5,URU 5,To be completed,player,uru,slot_05
+URU_006,URU,6,URU 6,SEBASTIAN CACERES,player,uru,slot_06
+URU_007,URU,7,URU 7,MATHIAS OLIVERA,player,uru,slot_07
+URU_008,URU,8,URU 8,GUILLERMO VARELA,player,uru,slot_08
+URU_009,URU,9,URU 9,To be completed,player,uru,slot_09
+URU_010,URU,10,URU 10,FEDERICO VALVERDE,player,uru,slot_10
+URU_011,URU,11,URU 11,GIORGIAN DE ARRASCAETA,player,uru,slot_11
+URU_012,URU,12,URU 12,RODRIGO BENTANCUR,player,uru,slot_12
+URU_013,URU,13,URU 13,TEAM PHOTO,team_photo,uru,slot_13
+URU_015,URU,15,URU 15,MANUEL UGARTE,player,uru,slot_15
+URU_016,URU,16,URU 16,MAXI ARAUJO,player,uru,slot_16
+URU_018,URU,18,URU 18,FEDERICO VINAS,player,uru,slot_18
+URU_019,URU,19,URU 19,RODRIGO AGUIRRE,player,uru,slot_19
+FRA_002,FRA,2,FRA 2,To be completed,player,fra,slot_02
+FRA_005,FRA,5,FRA 5,To be completed,player,fra,slot_05
+FRA_010,FRA,10,FRA 10,EDOUARDO CAMAVINGA,player,fra,slot_10
+FRA_011,FRA,11,FRA 11,KINGSLEY COMAN,player,fra,slot_11
+FRA_015,FRA,15,FRA 15,Ousmane Dembélé,player,fra,slot_15
+FRA_001,FRA,1,FRA 1,BADGE,badge,fra,slot_01
+FRA_003,FRA,3,FRA 3,THÉO HERNÁNDEZ,player,fra,slot_03
+FRA_004,FRA,4,FRA 4,WILLIAM SALIBA,player,fra,slot_04
+FRA_006,FRA,6,FRA 6,IBRAHIMA KONATÉ,player,fra,slot_06
+FRA_007,FRA,7,FRA 7,DAYOT UPAMECANO,player,fra,slot_07
+FRA_008,FRA,8,FRA 8,LUCAS DIGNE,player,fra,slot_08
+FRA_009,FRA,9,FRA 9,AURÉLIEN TCHOUAMÉNI,player,fra,slot_09
+FRA_012,FRA,12,FRA 12,ADRIEN RABIOT,player,fra,slot_12
+FRA_013,FRA,13,FRA 13,TEAM PHOTO,team_photo,fra,slot_13
+FRA_014,FRA,14,FRA 14,MICHAEL OLISE,player,fra,slot_14
+FRA_016,FRA,16,FRA 16,BRADLEY BARCOLA,player,fra,slot_16
+FRA_017,FRA,17,FRA 17,Désiré Doué,player,fra,slot_17
+FRA_018,FRA,18,FRA 18,KINGSLEY COMAN,player,fra,slot_18
+FRA_019,FRA,19,FRA 19,HUGO EKITIKÉ,player,fra,slot_19
+FRA_020,FRA,20,FRA 20,KYLIAN MBAPPÉ,player,fra,slot_20
+FWC_003,FWC,3,FWC 3,Official Mascots,player,fwc,slot_03
+FWC_004,FWC,4,FWC 4,Official Slogan,player,fwc,slot_04
