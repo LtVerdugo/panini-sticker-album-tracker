@@ -93,6 +93,7 @@ const els = {
   swapFilters: document.querySelector("#swapFilters"),
   swapList: document.querySelector("#swapList"),
   shareSwapButton: document.querySelector("#shareSwapButton"),
+  shareMissingButton: document.querySelector("#shareMissingButton"),
   statsCompletionPct: document.querySelector("#statsCompletionPct"),
   statsRing: document.querySelector("#statsRing"),
   statsTotal: document.querySelector("#statsTotal"),
@@ -891,6 +892,7 @@ function switchPage(pageId) {
   els.pages.forEach((page) => page.classList.toggle("active", page.id === pageId));
   els.tabButtons.forEach((button) => button.classList.toggle("active", button.dataset.page === pageId));
   els.shareSwapButton.classList.toggle("hidden", pageId !== "swapPage");
+  els.shareMissingButton.classList.toggle("hidden", pageId !== "missingPage");
   if (pageId === "missingPage") loadMissing();
   if (pageId === "swapPage") loadDuplicates();
   if (pageId === "statsPage") Promise.all([loadStats(), loadCollection()]).then(renderTeamProgress);
@@ -1213,6 +1215,54 @@ async function shareSwapList() {
   window.alert(text);
 }
 
+async function shareMissingList() {
+  const items = state.missing.map((sticker) => {
+    return `${codeFromSticker(sticker)} - ${nameFromSticker(sticker) || "To be completed"}`;
+  });
+  const text = `⭐ My Panini WC 2026 missing stickers:\n\n${items.join("\n")}\n\nDo you have any of these? Let me know! 🏆`;
+
+  if (navigator.share) {
+    try {
+      await navigator.share({ text });
+      return;
+    } catch (error) {
+      if (error.name === "AbortError") return;
+    }
+  }
+
+  if (navigator.clipboard?.writeText) {
+    try {
+      await navigator.clipboard.writeText(text);
+      showToast("📋 Copied to clipboard!");
+      return;
+    } catch {
+      // Fall through to the textarea copy fallback for non-HTTPS browsers.
+    }
+  }
+
+  try {
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.setAttribute("readonly", "");
+    textarea.style.position = "fixed";
+    textarea.style.left = "-9999px";
+    textarea.style.top = "0";
+    document.body.appendChild(textarea);
+    textarea.select();
+    const copied = document.execCommand("copy");
+    textarea.remove();
+
+    if (copied) {
+      showToast("📋 Copied to clipboard!");
+      return;
+    }
+  } catch {
+    // Final fallback below shows the text for manual copy.
+  }
+
+  window.alert(text);
+}
+
 function bindEvents() {
   injectStickerSheet();
 
@@ -1290,6 +1340,9 @@ function bindEvents() {
   });
   els.shareSwapButton.addEventListener("click", () => {
     shareSwapList().catch((error) => showToast(error.message));
+  });
+  els.shareMissingButton.addEventListener("click", () => {
+    shareMissingList().catch((error) => showToast(error.message));
   });
   els.swapList.addEventListener("click", (event) => {
     const button = event.target.closest(".qty-btn");
